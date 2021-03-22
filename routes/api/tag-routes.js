@@ -49,7 +49,7 @@ router.get('/:id', (req, res) => {
 router.post('/', (req, res) => {
   // create a new tag
   Tag.create({
-    tag_name: req.body.tag_name
+    tag_name: req.body.tag_name,
   })
     .then(dbData => res.json(dbData))
     .catch(err => {
@@ -66,6 +66,8 @@ router.put('/:id', (req, res) => {
     }
   })
   .then(dbData => {
+    console.log(dbData);
+    console.log(req.body);
     if(!dbData[0]){
       res.status(404).json({message: 'Tag with this id was not found'});
       return;
