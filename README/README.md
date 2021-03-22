@@ -41,4 +41,14 @@ THEN I am able to successfully create, update, and delete data in my database
 
 Github Repo: https://github.com/NicholasMarrone-1997/E-Commerce-Back-End
 
-Video: 
+Video1: https://drive.google.com/file/d/1dU8lIbIbnOLieSQ7La02BZ4xRCQjV1dj/view
+
+Video2: https://drive.google.com/file/d/1VsiXq3jqP6sbSD1eZfGjS35nSG4z0jUz/view
+
+Video3: https://drive.google.com/file/d/1XaGAqQUYVAnGRtvgqBleSsKxEvAXN8kx/view
+
+Video4 (Tags: Update, Delete, Create): https://drive.google.com/file/d/1GtXXvuv2WeDpSIIDC5mIeG2mCyAxIkM_/view
+
+Video5 (Categories: Update, Delete, Create): https://drive.google.com/file/d/1KlIoneHlhnglLVEAxAyk8P-jry1MrHvw/view
+
+Video6 (Products: Update, Delete, Create): https://drive.google.com/file/d/1-1AXQxUwtzNnXcmI0lo07_kTX6PjXdIb/view
